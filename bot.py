@@ -18,7 +18,7 @@ from datetime import datetime, timedelta
 app = Flask(__name__)
 
 # ====== CONFIG ======
-BOT_TOKEN = "7583473298:AAGxI8vz2Zj0r3i2s5a8s5a8s5a8s5a8"  # <-- APNA TOKEN
+BOT_TOKEN = "8426512063:AAEenIycdjgaXZLi-oz9HW_hbEY2f8UcSaI"  # <-- APNA TOKEN
 OWNER_ID = "8600328303"  # <-- APNA TELEGRAM ID
 API_URL = "https://ultra-bomber.onrender.com"  # Ultra Bomber API
 ADMIN_KEY = "admin123"  # Master key for keygen
